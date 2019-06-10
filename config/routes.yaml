@@ -1,0 +1,6 @@
+index:
+    path: /
+    controller: App\Controller\SimpleController::index
+charge:
+    path: /charge
+    controller: App\Controller\SimpleController::charge
